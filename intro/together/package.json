@@ -1,0 +1,17 @@
+{
+  "name": "together",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "nunjucks": "^3.1.3"
+  }
+}
