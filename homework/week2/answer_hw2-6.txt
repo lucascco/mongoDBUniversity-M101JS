@@ -1,0 +1,2 @@
+$set
+db.movieDetails.update({_id:  ObjectId("5692a52d24de1e0ce2dfdc9c")}, { $set: { "plot": "Film based on the characters from the comic created by \"Hergé\". Update" } })
