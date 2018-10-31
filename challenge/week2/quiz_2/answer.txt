@@ -1,0 +1,5 @@
+command shell
+db.movieDetails.updateMany({"imdb.votes": {$lt: 10000}, "year": {$gte: 2010, $lte: 2013}, $and: [{"tomato.consensus": {$eq: null}}, {"tomato.consensus": {$exists: true}}]}, {$unset: {"tomato.consensus": ""}})
+
+response
+{ "acknowledged" : true, "matchedCount" : 13, "modifiedCount" : 13 }

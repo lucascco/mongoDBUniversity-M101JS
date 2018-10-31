@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Movie A",
+        "awards" : {
+            "oscars" : [
+                {"award": "bestAnimatedFeature", "result": "won"},
+                {"award": "bestMusic", "result": "won"},
+                {"award": "bestPicture", "result": "nominated"},
+                {"award": "bestSoundEditing", "result": "nominated"},
+                {"award": "bestScreenplay", "result": "nominated"}
+            ],
+            "wins" : 2,
+            "nominations" : 3,
+            "text" : "Won 2 Oscars. Another 56 wins and 86 nominations."
+        }
+    },
+    {
+        "name": "Movie B",
+        "awards" : {
+            "oscars" : [
+                {"award": "bestAnimatedFeature", "result": "won"},
+                {"award": "bestMusic", "result": "won"},
+                {"award": "bestPicture", "result": "won"},
+                {"award": "bestSoundEditing", "result": "nominated"},
+                {"award": "bestScreenplay", "result": "won"}
+            ],
+            "wins" : 4,
+            "nominations" : 1,
+            "text" : "Won 2 Oscars. Another 56 wins and 86 nominations."
+        }
+    },
+    {
+        "name": "Movie C",
+        "awards" : {
+            "oscars" : [
+                {"award": "bestAnimatedFeature", "result": "nominated"},
+                {"award": "bestMusic", "result": "nominated"},
+                {"award": "bestSoundEditing", "result": "nominated"},
+                {"award": "bestScreenplay", "result": "nominated"}
+            ],
+            "wins" : 0,
+            "nominations" : 4,
+            "text" : "Won 2 Oscars. Another 56 wins and 86 nominations."
+        }
+    },
+    {
+        "name": "Movie D",
+        "awards" : {
+            "oscars" : [
+                {"award": "bestAnimatedFeature", "result": "won"},
+                {"award": "bestMusic", "result": "won"},
+                {"award": "bestSoundEditing", "result": "nominated"},
+                {"award": "bestScreenplay", "result": "nominated"}
+            ],
+            "wins" : 2,
+            "nominations" : 2,
+            "text" : "Won 2 Oscars. Another 56 wins and 86 nominations."
+        }
+    }
+]
