@@ -1,0 +1,7 @@
+var cursor = db.collection("grades").find({});
+cursor.sort({"grade": -1});
+cursor.skip(4);
+cursor.limit(2);
+
+Answer
+Katherine, Stacy
