@@ -10,13 +10,13 @@ The November 2018 class of the course MongoDB for Node.js Developers is structur
 
 | Week  | Topic |
 | ------------- | ------------- |
-| Week One  | [Introduction](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week1)  |
-| Week Two  | [CRUD](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week2)  |
-| Week Three  | [The Node.js Driver](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week3)  |
-| Week Four  | [Schema Design](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week4)  |
-| Week Five  | [Indexes and Performance](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week5)  |
-| Week Six  | [The Aggregation Framework](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week6)  |
-| Week Seven  | [Application Engineering](lucascco/mongoDBUniversity-M101JS/tree/master/homework/week7)  |
+| Week One  | [Introduction](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week1)  |
+| Week Two  | [CRUD](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week2)  |
+| Week Three  | [The Node.js Driver](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week3)  |
+| Week Four  | [Schema Design](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week4)  |
+| Week Five  | [Indexes and Performance](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week5)  |
+| Week Six  | [The Aggregation Framework](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week6)  |
+| Week Seven  | [Application Engineering](https://github.com/lucascco/mongoDBUniversity-M101JS/tree/master/homework/week7)  |
 
 ## Do you want join this course?
 
